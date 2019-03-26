@@ -1,27 +1,18 @@
 ---
-title: Home
+title: Proč Humans of Libraries?
 ---
 
-# Hello World! (It works!)
+**Stránka inspirovaná projekty Humans of Prague a Za knihami, skuteční lidé ve skutečných knihovnách.**
 
-This are the contents of the Hugo start website front page.
+Stránky jako humans of Prague nebo Za knihami a původní Humans of New York jsou založené na potkávání skutečných lidí a sdílení jejich myšlenek a osudů pomocí platformy jako je například Facebook. Texty vznikají na základě skutečných rozhovorů, přičemž doplňujícím médiem se stává fotografie, která projekt posouvá blíž k publiku. 
 
-## Something to read: Sonnet LXVI.
+Tyto stránky jako takové mají obrovský potenciál ukazovat na určité problémy naší společnosti nebo naopak popularizovat věci, které jsou prospěšné, skrze individuální každodenní příběhy, které zasáhnou víc než pouhá formulace obecného problému.  
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+Humans of Libraries by mohlo fungovat jako klíč ke zviditelnění knihoven a zboření stereotypu knihovníka, resp. knihovnice jako starší obrýlené paní, která celý den sedí za pultem a půjčuje knihy. Mohla by ukázat všechny stránky knihovnctví, zobrazit nové služby a poukázat na místa, kde by se hodila pomoc. Kromě toho, pokud by stránka fungovala podobně jako Humans of Prague ve dvou jazykových verzích u každého příspěvku, mohla by také fungovat pro české knihovny i jako dveře do světa.
+
+- https://www.tomasprinc.eu/humansofprague
+- https://cs-cz.facebook.com/praguehumans/
+- https://cs-cz.facebook.com/ZaKnihami/
+- http://www.humansofnewyork.com/
+
 
